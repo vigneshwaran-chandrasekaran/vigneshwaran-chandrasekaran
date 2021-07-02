@@ -3,10 +3,10 @@
 
 I am Vigneshwaran,
 
-- 🔭 I’m currently working on <a href="https://www.wekanenterprisesolutions.com/"><img height="58" alt="wekanenterprisesolutions logo" src="https://www.wekanenterprisesolutions.com/images/wekan-logo.svg">wekanenterprisesolutions formarly known as wekan.company</a>
+- <a href="https://stackoverflow.com/users/3882241/vigneshwaran-chandrasekaran" target="_blank"><img height="58" alt="Stack_Overflow_logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/800px-Stack_Overflow_logo.svg.png"></a>
 
-<a href="https://stackoverflow.com/users/3882241/vigneshwaran-chandrasekaran" target="_blank"><img height="58" alt="Stack_Overflow_logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/800px-Stack_Overflow_logo.svg.png">My Stack Overflow Profile</a>
+- <a href="https://www.linkedin.com/in/vigneshwaranc/" target="_blank"><img height="58" alt="LI-Logo" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg"></a>
 
+- 🔭 I’m currently working on <a href="https://www.wekanenterprisesolutions.com/"><img height="58" alt="wekanenterprisesolutions logo" src="https://www.wekanenterprisesolutions.com/images/wekan-logo.svg"></a>
 
-
-
+<!-- wekanenterprisesolutions formarly known as wekan.company -->
