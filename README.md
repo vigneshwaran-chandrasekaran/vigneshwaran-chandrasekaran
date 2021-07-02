@@ -9,4 +9,8 @@ I am Vigneshwaran,
 
 - 🔭 I’m currently working on <a href="https://www.wekanenterprisesolutions.com/"><img height="28" alt="wekanenterprisesolutions logo" src="https://www.wekanenterprisesolutions.com/images/wekan-logo.svg"></a>
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=vigneshwaran-chandrasekaran)
+
+![counter](https://[YourEndpoint].m.pipedream.net)
+
 <!-- wekanenterprisesolutions formarly known as wekan.company -->
