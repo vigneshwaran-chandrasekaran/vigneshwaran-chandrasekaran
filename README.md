@@ -1,18 +1,15 @@
 ### Hi there 👋
 
 
-**vigneshwaran-chandrasekaran/vigneshwaran-chandrasekaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Vigneshwaran,
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on <a href="https://www.wekanenterprisesolutions.com/"><img height="58" alt="wekanenterprisesolutions logo" src="https://www.wekanenterprisesolutions.com/images/wekan-logo.svg"></a>
+&nbsp; &nbsp; &nbsp; &nbsp; https://www.wekanenterprisesolutions.com/ formarly https://www.wekan.company/
 
-- 🔭 I’m currently working on https://www.wekanenterprisesolutions.com/ formarly https://www.wekan.company/
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a href="https://stackoverflow.com/users/3882241/vigneshwaran-chandrasekaran
+" target="_blank"><img height="58" alt="Stack_Overflow_logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/800px-Stack_Overflow_logo.svg.png
+">My Stack Overflow Profile</a>
 
-<a href="https://www.wekanenterprisesolutions.com/"><img height="58" alt="wekanenterprisesolutions logo" src="https://www.wekanenterprisesolutions.com/images/wekan-logo.svg"></a>
-&nbsp; &nbsp; &nbsp; &nbsp;
+
+
+
