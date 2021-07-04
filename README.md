@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/vigneshwaranc/" target="_blank"><img height="28" alt="LI-Logo" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg"></a>
 
-🔭 I’m currently working on <a href="https://www.wekanenterprisesolutions.com/"><img height="28" alt="wekanenterprisesolutions logo" src="https://www.wekanenterprisesolutions.com/images/wekan-logo.svg"></a>
+🔭 I’m currently working at <a href="https://www.wekanenterprisesolutions.com/"><img height="28" alt="wekanenterprisesolutions logo" src="https://www.wekanenterprisesolutions.com/images/wekan-logo.svg"></a>
 
 
 <!-- wekanenterprisesolutions formarly known as wekan.company -->
